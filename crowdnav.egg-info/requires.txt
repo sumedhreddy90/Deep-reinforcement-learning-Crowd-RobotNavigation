@@ -1,0 +1,11 @@
+gitpython
+gym
+matplotlib
+numpy
+scipy
+torch==1.4.0
+torchvision==0.5.0
+
+[test]
+pylint
+pytest
